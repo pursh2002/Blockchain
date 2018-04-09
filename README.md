@@ -5,3 +5,4 @@ study material/practice
 * https://www.udemy.com/build-your-blockchain-az/
 * https://www.coursera.org/learn/ibm-blockchain-essentials-for-developers/home/info
 * https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x
+* https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html
