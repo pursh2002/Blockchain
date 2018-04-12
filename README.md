@@ -7,3 +7,4 @@ study material/practice
 * https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x
 * https://www.ibm.com/developerworks/cloud/library/cl-develop-blockchain-app-in-python/index.html
 * https://github.com/anders94/blockchain-demo---form superdatascience
+* https://www.superdatascience.com/blockchain/
